@@ -2,7 +2,7 @@
 
 import requests
 
-API_KEY = 'TU_API_KEY_AQUI'  # Reemplaza por tu API Key de GraphHopper
+API_KEY = '72049aa7-1194-4e75-be00-ecabf11ee656'  # Reemplaza por tu API Key de GraphHopper
 API_URL = 'https://graphhopper.com/api/1/route'
 
 def obtener_ruta(origen, destino, modo):
